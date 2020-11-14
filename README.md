@@ -6,5 +6,5 @@
 
 * 全局导入 
   - import XcoooUI form 'xcooo-ui' 
-  - import 'xcooo-ui/lib/xcooo-ui.css'
+  - import 'xcooo-ui/dist/xcooo-ui.css'
   - Vue.use(XcoooUI)
