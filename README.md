@@ -1,9 +1,10 @@
-本项目仅作为vue组件封装的练习参考
+* 本项目仅作为vue组件封装的练习参考
 
-初始化vue项目 vue created demo
+* 初始化vue项目 vue created demo
 
-安装组件库 yarn add one-ui
+* 安装组件库 yarn add xcooo-ui
 
-全局导入 import XcoooUI form 'xcooo-ui' import 'xcooo-ui/lib/xcoooui.css'
-
-Vue.use(XcoooUI)
+* 全局导入 
+  - import XcoooUI form 'xcooo-ui' 
+  - import 'xcooo-ui/lib/xcoooui.css'
+  - Vue.use(XcoooUI)
